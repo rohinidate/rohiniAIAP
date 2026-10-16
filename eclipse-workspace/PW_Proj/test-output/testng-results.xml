@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-10-16T18:09:48 IST" name="Default suite" finished-at="2026-10-16T18:10:01 IST" duration-ms="12939">
+    <groups>
+    </groups>
+    <test started-at="2026-10-16T18:09:48 IST" name="Default test" finished-at="2026-10-16T18:10:01 IST" duration-ms="12939">
+      <class name="learning_plawright.LoadingPropertiesFromENV">
+        <test-method signature="Login()[pri:0, instance:learning_plawright.LoadingPropertiesFromENV@1b7cc17c]" started-at="2026-10-16T18:09:48 IST" name="Login" finished-at="2026-10-16T18:10:01 IST" duration-ms="12894" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+      </class> <!-- learning_plawright.LoadingPropertiesFromENV -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
