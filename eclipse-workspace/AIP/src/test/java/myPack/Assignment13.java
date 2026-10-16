@@ -2,12 +2,12 @@ package myPack;
 
 public class Assignment13 {
 
-	
+	//Write a Program on IF Block
 	public static void main(String[] args) {
-		int a=100;
+		int age=100;
 		
 		
-		if(a>=18) 
+		if(age>=18) 
 		{
 			System.out.println("You can Vote");
 		}
